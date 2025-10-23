@@ -13,7 +13,7 @@ This project uses deep learning to classify brain tumors (Pituitary, Glioma, Men
 - Detection interface to classify new MRI scans with confidence scores
 
 ## Technologies
-Python, TensorFlow/Keras, OpenCV, Matplotlib
+Python, TensorFlow/Keras, Transfer Learning(VGG16), Matplotlib, Seaborn
 
 ## Installation
 ```bash
